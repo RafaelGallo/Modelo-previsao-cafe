@@ -1,4 +1,4 @@
-# Machine learning - Previsão preço cafe
+# Machine learning - Previsão preço café
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
@@ -26,7 +26,7 @@
 [![](https://img.shields.io/badge/PowerBI-red.svg)](https://powerbi.microsoft.com/pt-br/)
 
 
-![Logo](https://img.freepik.com/fotos-gratis/graos-de-cafe-com-aderecos-para-fazer-cafe_1220-4536.jpg w=1380&t=st=1661132002~exp=1661132602~hmac=59a67e5803c078cf194b6fa130b7d5b3474cea288055f3987bf14a218e8f5882)
+![Logo](https://img.freepik.com/fotos-gratis/graos-de-cafe-com-aderecos-para-fazer-cafe_1220-4536.jpg?w=1380&t=st=1661132002~exp=1661132602~hmac=59a67e5803c078cf194b6fa130b7d5b3474cea288055f3987bf14a218e8f5882)
 
 ## Autores
 
